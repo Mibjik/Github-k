@@ -1,2 +1,21 @@
-body{background-color: #a3a3a3;}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6f2ff;
+    margin: 30px;
+    color: #333;
+}
 
+h1 {
+    color: #005580;
+}
+
+h2 {
+    color: #0088cc;
+    border-bottom: 1px solid #0088cc;
+}
+
+form {
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ccc;
+}
